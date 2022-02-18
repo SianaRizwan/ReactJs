@@ -1,0 +1,20 @@
+const book_lib = [
+    {
+        name: "React",
+        imr_url: "https://m.media-amazon.com/images/I/511-vIg1HaL._AC_UY327_FMwebp_QL65_.jpg",
+        desc: "This is an Intro to react",
+        prince: 49
+    },
+    {
+        name: "Computer Vision",
+        imr_url: "https://m.media-amazon.com/images/I/61TKTkmD4FL._AC_UY327_FMwebp_QL65_.jpg",
+        desc: "This is an Intro to Computer vision",
+        prince: 100
+    },
+    {
+        name: "Will",
+        imr_url: "https://images-na.ssl-images-amazon.com/images/I/911cmGSgcvL._AC_UL254_SR254,254_.jpg",
+        desc: "This is a personal book",
+        prince: 49
+    }
+]
